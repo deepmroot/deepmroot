@@ -26,7 +26,10 @@
 **SyntaxArk**  
 Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel&perline=6" height="26" />
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-1e293b?style=flat-square&logo=react&logoColor=61dafb" alt="React docs" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript docs" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/-Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind docs" /></a>
+  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-1e293b?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel docs" /></a>
 </p>
 Live: https://syntaxark.vercel.app/
 
@@ -35,7 +38,10 @@ Live: https://syntaxark.vercel.app/
 **RentSpace**  
 Rental platform with AI-assisted screening, real-time messaging, and API sync.  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&perline=6" height="26" />
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/-Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js docs" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript docs" /></a>
+  <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/-Supabase-1e293b?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase docs" /></a>
+  <a href="https://ai.google.dev/gemini-api/docs"><img src="https://img.shields.io/badge/-Gemini-1e293b?style=flat-square&logo=google&logoColor=60a5fa" alt="Gemini docs" /></a>
 </p>
 Live: https://rentspace4u.ca/
 
@@ -47,7 +53,10 @@ Live: https://rentspace4u.ca/
 **InferenceSaver**  
 SSR-first AI SaaS with subscriptions, auth, and conversion flows.  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=6" height="26" />
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/-Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js docs" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-1e293b?style=flat-square&logo=react&logoColor=61dafb" alt="React docs" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript docs" /></a>
+  <a href="https://docs.stripe.com/"><img src="https://img.shields.io/badge/-Stripe-1e293b?style=flat-square&logo=stripe&logoColor=635bff" alt="Stripe docs" /></a>
 </p>
 Live: https://inferencesaver.com
 
@@ -56,7 +65,11 @@ Live: https://inferencesaver.com
 **Generic Alternatives**  
 AI-enabled sourcing and supply-chain automation.  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,docker&perline=6" height="26" />
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-1e293b?style=flat-square&logo=react&logoColor=61dafb" alt="React docs" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript docs" /></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/-Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js docs" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/-PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL docs" /></a>
+  <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/-Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker docs" /></a>
 </p>
 Live: https://genericalternatives.co.uk/
 
