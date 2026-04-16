@@ -109,6 +109,3 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
-<p align="center">
-  <a href="https://github.com/deepmroot/deepmroot/actions/workflows/snake.yml"><img src="https://img.shields.io/badge/Refresh%20Snake%20Animation-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" alt="Refresh snake animation" /></a>
-</p>
