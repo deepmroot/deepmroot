@@ -97,15 +97,18 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
 
 ### GitHub Activity
 <p align="center">
-  <a href="https://github.com/deepmroot?tab=overview&from=2025-01-01&to=2025-12-31"><img height="180" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
-  <a href="https://github.com/deepmroot?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&hide=c%2B%2B,c,cmake,makefile&cache_seconds=14400&v=2" /></a>
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1&hide_rank=true" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&hide=c%2B%2B,c,cmake,makefile&cache_seconds=14400&v=3" />
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot?tab=contributions"><img height="180" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" /></a>
+  <img height="210" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" />
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot?tab=contributions"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6" alt="Activity graph" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6" alt="Activity graph" />
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot/deepmroot/blob/main/.github/workflows/snake.yml"><img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></a>
+  <img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+<p align="center">
+  <a href="https://github.com/deepmroot/deepmroot/actions/workflows/snake.yml"><img src="https://img.shields.io/badge/Refresh%20Snake%20Animation-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" alt="Refresh snake animation" /></a>
 </p>
