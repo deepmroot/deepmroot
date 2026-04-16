@@ -11,56 +11,67 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS_SHIPPED-10-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
-  <img src="https://img.shields.io/badge/LIVE_PRODUCTS-4-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
-  <img src="https://img.shields.io/badge/CORE_BUILDS-2-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
-  <img src="https://img.shields.io/badge/CYCLE-2025--2026-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
+  <img src="https://img.shields.io/badge/PROJECTS_SHIPPED-10-1e293b?style=flat-square&labelColor=0a0b10" />
+  <img src="https://img.shields.io/badge/LIVE_PRODUCTS-4-1e293b?style=flat-square&labelColor=0a0b10" />
+  <img src="https://img.shields.io/badge/CORE_BUILDS-2-1e293b?style=flat-square&labelColor=0a0b10" />
+  <img src="https://img.shields.io/badge/CYCLE-2025--2026-1e293b?style=flat-square&labelColor=0a0b10" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Software%20Engineering%20Roles-1d4ed8?style=flat-square&labelColor=0a0b10&color=334155" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `selected_work`
+### Selected Work
 
-### SyntaxArk
+**SyntaxArk**  
 Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
 `React` `TypeScript` `Zustand` `Monaco` `xterm.js` `Convex`  
 Live: https://syntaxark.vercel.app/  
 Repo: https://github.com/deepmroot/SyntaxArk
 
-### RentSpace
-Rental platform with AI-assisted screening, real-time messaging, and external property API sync.  
+---
+
+**RentSpace**  
+Rental platform with AI-assisted screening, real-time messaging, and API sync.  
 `Next.js` `TypeScript` `Supabase` `Gemini` `Zillow API`  
 Live: https://rentspace4u.ca/  
 Repo: https://github.com/deepmroot/RentSpace
 
-### InferenceSaver
-SSR-first AI SaaS with subscription billing, auth flows, and conversion-focused product pages.  
+</td>
+<td width="50%" valign="top">
+
+### More Builds
+
+**InferenceSaver**  
+SSR-first AI SaaS with subscriptions, auth, and conversion flows.  
 `Next.js 15` `React 19` `TypeScript` `Stripe` `WorkOS`  
 Live: https://inferencesaver.com
 
-### Generic Alternatives
-AI-enabled sourcing and supply-chain automation platform.  
+---
+
+**Generic Alternatives**  
+AI-enabled sourcing and supply-chain automation.  
 `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`  
 Live: https://genericalternatives.co.uk/
 
-## `build_surface`
+---
+
 PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education
 
-## `stack`
+</td>
+</tr>
+</table>
+
+### Stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,supabase,firebase,rust,docker,git,githubactions,linux,bash,vite,vercel" alt="Stack" />
 </p>
 
-## `github_activity`
+### GitHub Activity
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" alt="GitHub stats" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" />
 </p>
 <p align="center">
-  <img height="145" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6" alt="Activity graph" />
+  <img height="145" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" />
 </p>
