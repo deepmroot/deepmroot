@@ -5,9 +5,9 @@
 <p align="center"><strong>Full-stack engineer shipping AI products, developer tools, and production web systems.</strong></p>
 
 <p align="center">
-  <a href="https://mandeep.work"><img src="https://img.shields.io/badge/Portfolio-mandeep.work-0a0b10?style=flat-square&logo=vercel&logoColor=60a5fa&labelColor=0a0b10&color=1e293b" /></a>
-  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/"><img src="https://img.shields.io/badge/LinkedIn-Mandeep%20Singh-0a0b10?style=flat-square&logo=linkedin&logoColor=60a5fa&labelColor=0a0b10&color=1e293b" /></a>
-  <a href="mailto:mandeepsinghwani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0a0b10?style=flat-square&logo=gmail&logoColor=f472b6&labelColor=0a0b10&color=1e293b" /></a>
+  <a href="https://mandeep.work" title="Portfolio"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=vercel&logoColor=60a5fa" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/" title="LinkedIn"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
+  <a href="mailto:mandeepsinghwani@gmail.com" title="Email"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -25,17 +25,23 @@
 
 **SyntaxArk**  
 Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
-`React` `TypeScript` `Zustand` `Monaco` `xterm.js` `Convex`  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind&perline=6" height="26" />
+  <img src="https://img.shields.io/badge/Monaco-1e293b?style=flat-square&labelColor=0a0b10" />
+  <img src="https://img.shields.io/badge/Convex-1e293b?style=flat-square&labelColor=0a0b10" />
+</p>
 Live: https://syntaxark.vercel.app/  
-Repo: https://github.com/deepmroot/SyntaxArk
+Repo: https://github.com/deepmroot/syntaxark
 
 ---
 
 **RentSpace**  
 Rental platform with AI-assisted screening, real-time messaging, and API sync.  
-`Next.js` `TypeScript` `Supabase` `Gemini` `Zillow API`  
-Live: https://rentspace4u.ca/  
-Repo: https://github.com/deepmroot/RentSpace
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&perline=6" height="26" />
+  <img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&labelColor=0a0b10" />
+</p>
+Live: https://rentspace4u.ca/
 
 </td>
 <td width="50%" valign="top">
@@ -44,14 +50,19 @@ Repo: https://github.com/deepmroot/RentSpace
 
 **InferenceSaver**  
 SSR-first AI SaaS with subscriptions, auth, and conversion flows.  
-`Next.js 15` `React 19` `TypeScript` `Stripe` `WorkOS`  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=6" height="26" />
+  <img src="https://img.shields.io/badge/Stripe-1e293b?style=flat-square&labelColor=0a0b10" />
+</p>
 Live: https://inferencesaver.com
 
 ---
 
 **Generic Alternatives**  
 AI-enabled sourcing and supply-chain automation.  
-`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,docker&perline=6" height="26" />
+</p>
 Live: https://genericalternatives.co.uk/
 
 ---
