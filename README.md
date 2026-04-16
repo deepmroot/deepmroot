@@ -5,9 +5,9 @@
 <p align="center"><strong>Full-stack engineer shipping AI products, developer tools, and production web systems.</strong></p>
 
 <p align="center">
-  <a href="https://mandeep.work" title="Portfolio"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=vercel&logoColor=60a5fa" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/" title="LinkedIn"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
-  <a href="mailto:mandeepsinghwani@gmail.com" title="Email"><img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email" /></a>
+  <a href="https://mandeep.work" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&labelColor=0a0b10&color=1e293b" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0a0b10&color=1e293b" alt="LinkedIn" /></a>
+  <a href="mailto:mandeepsinghwani@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0a0b10&color=1e293b" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Browser IDE with multi-file editing, runtime execution, challenge testing, and r
   <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/-Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind docs" /></a>
   <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-1e293b?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel docs" /></a>
 </p>
-Live: https://syntaxark.vercel.app/
+Live: https://syntaxark.com/
 
 ---
 
