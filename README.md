@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Mandeep%20Singh&fontAlign=50&fontAlignY=35&color=0:0f172a,100:1e293b&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Mandeep%20Singh&fontAlign=50&fontAlignY=36&color=0:0f172a,100:1e293b&fontColor=ffffff" alt="header" />
 </p>
 
-<p align="center">Full-stack engineer shipping AI products, developer tools, and production web systems.</p>
+<p align="center"><strong>Full-stack engineer shipping AI products, developer tools, and production web systems.</strong></p>
 
 <p align="center">
   <a href="https://mandeep.work"><img src="https://img.shields.io/badge/Portfolio-mandeep.work-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -10,16 +10,14 @@
   <a href="mailto:mandeepsinghwani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Snapshot
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Projects%20Shipped-10-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Live%20Products-4-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Core%20Engineering%20Builds-2-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Build%20Cycle-2025--2026-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core%20Builds-2-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build%20Cycle-2025--2026-111827?style=for-the-badge" />
 </p>
 
-- End-to-end ownership: architecture, implementation, deployment, iteration
-- Open to software engineering and internship roles
+<p align="center">Open to software engineering and internship roles.</p>
 
 ## Featured work
 
@@ -53,16 +51,12 @@ QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education • 
 
 ## GitHub activity
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
-  <img height="155" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true" alt="Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true" alt="Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=github-compact&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepmroot&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
