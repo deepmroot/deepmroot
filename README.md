@@ -83,14 +83,29 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
 
 ### Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,supabase,firebase,rust,docker,git,githubactions,linux,bash,vite,vercel" alt="Stack" />
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-1e293b?style=flat-square&logo=react&logoColor=61dafb" alt="React docs" /></a>
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/-Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js docs" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript docs" /></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/-Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js docs" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/-PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL docs" /></a>
+  <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/-Supabase-1e293b?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase docs" /></a>
+  <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/-Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker docs" /></a>
+  <a href="https://doc.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-1e293b?style=flat-square&logo=rust&logoColor=f8fafc" alt="Rust docs" /></a>
+  <a href="https://docs.github.com/en/actions"><img src="https://img.shields.io/badge/-GitHub%20Actions-1e293b?style=flat-square&logo=githubactions&logoColor=60a5fa" alt="GitHub Actions docs" /></a>
+  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-1e293b?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel docs" /></a>
 </p>
 
 ### GitHub Activity
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" />
+  <a href="https://github.com/deepmroot?tab=overview&from=2025-01-01&to=2025-12-31"><img height="180" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" /></a>
+  <a href="https://github.com/deepmroot?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&hide=c%2B%2B,c" /></a>
 </p>
 <p align="center">
-  <img height="145" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" />
+  <a href="https://github.com/deepmroot?tab=contributions"><img height="180" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/deepmroot?tab=contributions"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6" alt="Activity graph" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/deepmroot/deepmroot/blob/main/.github/workflows/snake.yml"><img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></a>
 </p>
