@@ -107,5 +107,5 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
   <a href="https://github.com/deepmroot"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6&v=4" alt="Activity graph" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot"><img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg?v=4" alt="Contribution snake animation" /></a>
+  <a href="https://github.com/deepmroot"><img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg?v=5" alt="Contribution snake animation" /></a>
 </p>

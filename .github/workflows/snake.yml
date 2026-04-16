@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: deepmroot
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2360a5fa&color_dots=%23e2e8f0,%23cbd5e1,%2394a3b8,%2360a5fa,%23ec4899
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2360a5fa&color_dots=%230a0b10,%23111827,%23312e81,%234f46e5,%23ec4899
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
