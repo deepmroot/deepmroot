@@ -26,12 +26,9 @@
 **SyntaxArk**  
 Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind&perline=6" height="26" />
-  <img src="https://img.shields.io/badge/Monaco-1e293b?style=flat-square&labelColor=0a0b10" />
-  <img src="https://img.shields.io/badge/Convex-1e293b?style=flat-square&labelColor=0a0b10" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel&perline=6" height="26" />
 </p>
-Live: https://syntaxark.vercel.app/  
-Repo: https://github.com/deepmroot/syntaxark
+Live: https://syntaxark.vercel.app/
 
 ---
 
@@ -39,7 +36,6 @@ Repo: https://github.com/deepmroot/syntaxark
 Rental platform with AI-assisted screening, real-time messaging, and API sync.  
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&perline=6" height="26" />
-  <img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&labelColor=0a0b10" />
 </p>
 Live: https://rentspace4u.ca/
 
@@ -52,7 +48,6 @@ Live: https://rentspace4u.ca/
 SSR-first AI SaaS with subscriptions, auth, and conversion flows.  
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=6" height="26" />
-  <img src="https://img.shields.io/badge/Stripe-1e293b?style=flat-square&labelColor=0a0b10" />
 </p>
 Live: https://inferencesaver.com
 
