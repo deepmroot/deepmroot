@@ -1,62 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Mandeep%20Singh&fontAlign=50&fontAlignY=36&color=0:0f172a,100:1e293b&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Mandeep%20Singh&fontAlign=50&fontAlignY=36&color=0:0a0b10,50:1e1b4b,100:a21caf&fontColor=e2e8f0" alt="header" />
 </p>
 
 <p align="center"><strong>Full-stack engineer shipping AI products, developer tools, and production web systems.</strong></p>
 
 <p align="center">
-  <a href="https://mandeep.work"><img src="https://img.shields.io/badge/Portfolio-mandeep.work-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/"><img src="https://img.shields.io/badge/LinkedIn-Mandeep%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mandeepsinghwani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://mandeep.work"><img src="https://img.shields.io/badge/Portfolio-mandeep.work-0a0b10?style=flat-square&logo=vercel&logoColor=60a5fa&labelColor=0a0b10&color=1e293b" /></a>
+  <a href="https://www.linkedin.com/in/mandeep-singh-b855972a7/"><img src="https://img.shields.io/badge/LinkedIn-Mandeep%20Singh-0a0b10?style=flat-square&logo=linkedin&logoColor=60a5fa&labelColor=0a0b10&color=1e293b" /></a>
+  <a href="mailto:mandeepsinghwani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0a0b10?style=flat-square&logo=gmail&logoColor=f472b6&labelColor=0a0b10&color=1e293b" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Shipped-10-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Live%20Products-4-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Core%20Builds-2-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build%20Cycle-2025--2026-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJECTS_SHIPPED-10-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
+  <img src="https://img.shields.io/badge/LIVE_PRODUCTS-4-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
+  <img src="https://img.shields.io/badge/CORE_BUILDS-2-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
+  <img src="https://img.shields.io/badge/CYCLE-2025--2026-1e293b?style=flat-square&labelColor=0a0b10&color=1e293b" />
 </p>
 
-<p align="center">Open to software engineering and internship roles.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Software%20Engineering%20Roles-1d4ed8?style=flat-square&labelColor=0a0b10&color=334155" />
+</p>
 
-## Featured work
+## `selected_work`
 
 ### SyntaxArk
 Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
-Stack: React, TypeScript, Zustand, Monaco, xterm.js, Convex  
-Live: https://syntaxark.vercel.app/ • Repo: https://github.com/deepmroot/SyntaxArk
+`React` `TypeScript` `Zustand` `Monaco` `xterm.js` `Convex`  
+Live: https://syntaxark.vercel.app/  
+Repo: https://github.com/deepmroot/SyntaxArk
 
 ### RentSpace
 Rental platform with AI-assisted screening, real-time messaging, and external property API sync.  
-Stack: Next.js, TypeScript, Supabase, Gemini, Zillow API  
-Live: https://rentspace4u.ca/ • Repo: https://github.com/deepmroot/RentSpace
+`Next.js` `TypeScript` `Supabase` `Gemini` `Zillow API`  
+Live: https://rentspace4u.ca/  
+Repo: https://github.com/deepmroot/RentSpace
 
 ### InferenceSaver
 SSR-first AI SaaS with subscription billing, auth flows, and conversion-focused product pages.  
-Stack: Next.js 15, React 19, TypeScript, Stripe, WorkOS  
+`Next.js 15` `React 19` `TypeScript` `Stripe` `WorkOS`  
 Live: https://inferencesaver.com
 
 ### Generic Alternatives
 AI-enabled sourcing and supply-chain automation platform.  
-Stack: React, TypeScript, Node.js, PostgreSQL, Docker  
+`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`  
 Live: https://genericalternatives.co.uk/
 
-## Build surface
-QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education • Project_Genesis [WIP] • PromptLine (Rust)
+## `build_surface`
+PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education
 
-## Stack
+## `stack`
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,supabase,firebase,rust,docker,git,githubactions,linux,bash,vite,vercel" alt="Stack" />
 </p>
 
-## GitHub activity
+## `github_activity`
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" alt="GitHub stats" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
 </p>
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true" alt="Streak" />
+  <img height="145" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8" alt="Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=github-compact&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6" alt="Activity graph" />
 </p>
