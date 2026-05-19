@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Mandeep%20Singh&fontAlign=50&fontAlignY=36&color=0:0a0b10,50:1e1b4b,100:a21caf&fontColor=e2e8f0" alt="header" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=CBD5E1&center=true&vCenter=true&width=900&lines=Full-stack+engineer+shipping+AI+products;Developer+tools%2C+automation%2C+and+production+web+systems" alt="Typing intro" />
+</p>
+
 <p align="center"><strong>Full-stack engineer shipping AI products, developer tools, and production web systems.</strong></p>
 
 <p align="center">
@@ -101,11 +105,10 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
   <a href="https://github.com/deepmroot"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepmroot&theme=tokyonight" alt="Top languages by repository" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepmroot&theme=tokyonight" alt="Most committed language" /></a>
-  <a href="https://github.com/deepmroot"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepmroot&theme=tokyonight&utcOffset=-7" alt="Productive time" /></a>
+  <a href="https://github.com/deepmroot"><img height="210" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=94a3b8&v=4" alt="GitHub streak" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/deepmroot"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepmroot&theme=tokyonight" alt="Profile details graph" /></a>
+  <a href="https://github.com/deepmroot"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmroot&theme=tokyo-night&hide_border=true&bg_color=0a0b10&color=94a3b8&line=60a5fa&point=f472b6&v=4" alt="Activity graph" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/deepmroot"><img src="https://raw.githubusercontent.com/deepmroot/deepmroot/output/github-contribution-grid-snake-dark.svg?v=5" alt="Contribution snake animation" /></a>
