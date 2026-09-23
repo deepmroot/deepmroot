@@ -103,9 +103,5 @@ PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Cana
 
 ### GitHub Activity
 <p align="center">
-  <a href="https://github.com/deepmroot"><img height="200" src="https://github-readme-stats.vercel.app/api?username=deepmroot&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff3c34&icon_color=ffc765&text_color=8e827c" alt="GitHub stats summary" /></a>
-  <a href="https://github.com/deepmroot"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmroot&layout=compact&hide_border=true&bg_color=00000000&title_color=ff3c34&text_color=8e827c" alt="Top languages" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/deepmroot"><img height="210" src="https://streak-stats.demolab.com?user=deepmroot&theme=transparent&hide_border=true&ring=ff3c34&fire=ffc765&currStreakLabel=ff3c34&sideLabels=8e827c&dates=8e827c&v=4" alt="GitHub streak" /></a>
 </p>
