@@ -27,18 +27,6 @@
 
 ### Selected Work
 
-**SyntaxArk**  
-Browser IDE with multi-file editing, runtime execution, challenge testing, and real-time collaboration.  
-<p>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-171412?style=flat-square&logo=react&logoColor=ff3c34" alt="React docs" /></a>
-  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-171412?style=flat-square&logo=typescript&logoColor=ffc765" alt="TypeScript docs" /></a>
-  <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/-Tailwind-171412?style=flat-square&logo=tailwindcss&logoColor=ffc765" alt="Tailwind docs" /></a>
-  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-171412?style=flat-square&logo=vercel&logoColor=fbf9ef" alt="Vercel docs" /></a>
-</p>
-Live: https://syntaxark.com/
-
----
-
 **RentSpace**  
 Rental platform with AI-assisted screening, real-time messaging, and API sync.  
 <p>
@@ -91,7 +79,7 @@ Live: https://genericalternatives.co.uk/
 
 ---
 
-PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education • agentmemory (agent-memory.dev) • BecomeAfish • brainrot (OSS) • Preflight (Amazon Nova Hackathon)
+SyntaxArk ([syntaxark.com](https://syntaxark.com/)) • PromptLine (Rust) • Project_Genesis [WIP] • QuickTest AI • Hypershape Canada • BudgetBuddy • Terra Mare Education • agentmemory (agent-memory.dev) • BecomeAfish • brainrot (OSS) • Preflight (Amazon Nova Hackathon)
 
 **Client work:** [The Wandering Bar](https://thewanderingbar.vercel.app) • [Kami Drywall & Renovation](https://kamloops-drywall.vercel.app) — Kamloops, BC
 
