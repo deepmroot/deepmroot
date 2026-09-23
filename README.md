@@ -49,6 +49,18 @@ Rental platform with AI-assisted screening, real-time messaging, and API sync.
 </p>
 Live: https://rentspace4u.ca/
 
+---
+
+**ListeningKit**  
+Live social-listening logbook for Facebook, X, and Reddit — keyword alerts via push notification, built for a Convex hackathon.  
+<p>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-171412?style=flat-square&logo=typescript&logoColor=ffc765" alt="TypeScript docs" /></a>
+  <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/-Next.js-171412?style=flat-square&logo=nextdotjs&logoColor=fbf9ef" alt="Next.js docs" /></a>
+  <a href="https://docs.convex.dev/"><img src="https://img.shields.io/badge/-Convex-171412?style=flat-square&logo=convex&logoColor=ff3c34" alt="Convex docs" /></a>
+  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-171412?style=flat-square&logo=vercel&logoColor=fbf9ef" alt="Vercel docs" /></a>
+</p>
+Live: https://listeningkit-hackathon.vercel.app
+
 </td>
 <td width="50%" valign="top">
 
