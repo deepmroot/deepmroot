@@ -47,7 +47,7 @@ Live social-listening logbook for Facebook, X, and Reddit — keyword alerts via
   <a href="https://docs.convex.dev/"><img src="https://img.shields.io/badge/-Convex-171412?style=flat-square&logo=convex&logoColor=ff3c34" alt="Convex docs" /></a>
   <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/-Vercel-171412?style=flat-square&logo=vercel&logoColor=fbf9ef" alt="Vercel docs" /></a>
 </p>
-Live: https://listeningkit-hackathon.vercel.app
+Live: https://log.listeningkit.com/
 
 </td>
 <td width="50%" valign="top">
